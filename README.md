@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## 欢迎来到伍嘉丽的个人博客 
+这里将记录遇到的问题及解决方法、学习笔记、个人源码解读、知识拓展等技术内容
 
 You can use the [editor on GitHub](https://github.com/WJL666666/wujiali.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
